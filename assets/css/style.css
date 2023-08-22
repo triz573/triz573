@@ -68,7 +68,7 @@ p,
 }
 
 #subtext {
-  display: inline;
+  display: grid;
 }
 
 .footer {
